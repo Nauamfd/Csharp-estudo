@@ -1,2 +1,2 @@
 # CSFundamentos
-Aqui á estudos que fiz usando a linguagem de csharp
+Aqui á estudos que fiz usando a linguagem  csharp
