@@ -16,8 +16,11 @@ valor = "String alterada 2";
 Console.WriteLine(valor);
 
 
+
 Console.ReadLine();
 Console.WriteLine();
+
+//Tipos obj add vários tipos
 
 object obj = 10;
 object valord = 8.44m;
