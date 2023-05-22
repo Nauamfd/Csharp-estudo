@@ -60,8 +60,8 @@ Console.WriteLine("----------------");
 //O mesmo cuidado tem que ser atribuido em expressões
 
 int x = 3;
-int? y =  3;
-int t = y ?? 6;
+int? y = null;
+int t = y ?? 9;
 int z = x * t;
 
 Console.WriteLine(z);
