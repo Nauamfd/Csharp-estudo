@@ -43,4 +43,5 @@ int resultadoZP = --zp + 10;
 Console.WriteLine($"Valore de decremento de zp e:{resultadoZP}\n");
 Console.WriteLine($"zp e:{zp}\n");
 
+//Ok
 Console.ReadKey();
